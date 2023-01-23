@@ -13,8 +13,8 @@ tags:
 ---
 
 When we moved to the US from Sweden, I wanted to bring up our home network with 
-minimal about of equipment. 
-It's not that often that starting to spend a lot of money on computer stuffs is 
+the minimal amount of equipment. 
+It's not that often that starting to spend a lot of money on tech stuffs is 
 the correct thing to do just after you have moved, 
 especially when you're moving to a different country, so I got my self a 
 Google Nest Wifi since they were affordable and also had mesh capabilities.
