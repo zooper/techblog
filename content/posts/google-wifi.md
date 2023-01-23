@@ -13,7 +13,7 @@ tags:
 ---
 
 When we moved to the US from Sweden, I wanted to bring up our home network with 
-minimal amout of equipment. 
+minimal about of equipment. 
 It's not that often that starting to spend a lot of money on computer stuffs is 
 the correct thing to do just after you have moved, 
 especially when you're moving to a different country, so I got my self a 
@@ -21,8 +21,8 @@ Google Nest Wifi since they were affordable and also had mesh capabilities.
 
 
 And here we are, a little bit more then a year later and, oboy...I am not impressed.
-Just to make it clear, I know we're talking about Google, but still. there are 
-some things that acutally makes my mind blow, and not in a good way.
+Just to make it clear, I know we're talking about Google, but still, there are 
+some things that actually makes my mind blow, and not in a good way.
 
 ### Port forwarding
 So you want to do some port forwarding? Maybe you have a server inside your 
@@ -47,7 +47,7 @@ services for a basic feature.
 
 So here's another thing about the Google Nest Wi-Fi. 
 I bought mine bundled with one access point besides from the hub it self.
-Everything went quite ok for the first comple of months. Some hickups here and
+Everything went quite ok for the first couple of months. Some hiccups here and
 there like having to reboot the AP or the Hub it self, but hey! It's just like
 all other network equipment. Sometimes you just have to reboot stuffs.
 
@@ -55,7 +55,7 @@ Then in November things started to escalate more and more.
 The access point lives in our bedroom and every now and then both me and my 
 wife started having issues that we were in fact connected to the wifi but you 
 couldn't get anywhere. At the beginning I thought that the ISP was having issues
-but as soon as I went to the livingroom where the Hub is, things started to work
+but as soon as I went to the living room where the Hub is, things started to work
 again.
 
 Now, the problem with Googles Wifi is, and they are not unique, you have zero insight
@@ -67,8 +67,8 @@ etc running so I easily could start doing some basic monitoring.
 
 And now I started to get some insight at least. 
 Since the monitoring lives in Germany, it's more important to look at the trends
-then the actual reponse times. For everything wired in our home, the latency 
-is around 100ms and that is constant. Now, the graph shows reponse times to the 
+then the actual response times. For everything wired in our home, the latency 
+is around 100ms and that is constant. Now, the graph shows response times to the 
 access point, so the icmp packets are traveling via the mesh between the 
 access point and the hub. No wonder I am having issues from time to time when 
 the latency can spike up to ~750ms. (860ms - 100 ms).
@@ -80,5 +80,5 @@ having these issues.
 https://www.googlenestcommunity.com/t5/Nest-Wifi/14150-376-32-firmware-connection-drop-outs/m-p/342970
 
 I decided to have a chat with their support today but that was more or less 
-meaningless. The gist was that they belive that because I am double nat:ing the Hub 
+meaningless. The gist was that they believe that because I am double nat:ing the Hub 
 I am having issues. Not sure though how the double nat affects the internal mesh...
