@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "https://tech.jonsson.io"
 title        = "tech.jonsson.io"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
