@@ -45,6 +45,23 @@ paginate     = 10
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
 
+  # Social icons
+  [[params.social]]
+    name = "mastodon"
+    url  = "https://social.linuxburken.se/@zooper"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/zooper"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/tomas-jonsson-b3522925/"
+
+  [[params.social]]
+    name = "twitter"
+    url  = "https://www.twitter.com/tomas_jonsson"
+
   # And you can even create generic menu
   [[menu.main]]
     identifier = "blog"
