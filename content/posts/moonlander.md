@@ -38,8 +38,8 @@ who I'm talking to. (Sometimes they just have to deal with me not using åäö)
 
 {{< image src="https://static.jonsson.io/file/webstaticfiles/tech/moonlander2.jpg" alt="" position="center" style="border-radius: 8px;" >}}
 
-If there where anything I have would like to change I think it's something some others have 
-pointed out as well, the cable between the half might be a little bit to long.
+If there is anything I would like to change I think it's something some others have 
+pointed out as well, the cable between the two half might be a little bit to long.
 But in all fairness, that has nothing to do with functionality.
 So the gist is: I'm super happy with my Moonlander! 
 
