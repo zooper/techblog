@@ -23,7 +23,7 @@ paginate     = 10
   enableThemeToggle = true
   # Metadata mostly used in document's head
   description = "My tech thoughts"
-  keywords = "homepage, blog"
+  keywords = "homepage, blog, tech, network, linux"
   images = [""]
 
 [taxonomies]
