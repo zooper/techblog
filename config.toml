@@ -50,7 +50,7 @@ paginate     = 10
   # Social icons
   [[params.social]]
     name = "mastodon"
-    url  = "https://social.linuxburken.se/@zooper"
+    url  = "https://mstdn.kernel-panic.lol/@zooper"
 
   [[params.social]]
     name = "github"
